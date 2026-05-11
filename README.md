@@ -10,6 +10,10 @@ Pour résoudre ce problème urgent, l'équipe de direction de TechUniverse a lan
 
 De plus, TechUniverse souhaite mettre en place une solution de connexion à distance sur son LAN pour les télétravailleurs.
 
+# Gestion des tâches à faire
+
+https://trello.com/b/XMhnwYfr/techuniverse
+
 # Schéma réseau
 
 <img width="715" height="909" alt="Schéma réseau drawio" src="https://github.com/user-attachments/assets/eb9e4965-0d84-4ff1-9c47-f1f33ff80258" />
